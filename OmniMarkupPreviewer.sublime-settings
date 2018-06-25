@@ -1,0 +1,12 @@
+{
+    "server_host": "0.0.0.0",
+    "server_port": 9998,
+    // User defined command for launching preview in web browser
+    // For example:
+    //   Launching preview using Google Chrome in OS X:
+    //      ["open", "-a", "Google Chrome", "{url}"]
+    "browser_command": ["open", "-a", "Google Chrome", "{url}"],
+    "renderer_options-MarkdownRenderer": {
+        "extensions": ["tables", "fenced_code", "codehilite"]
+    }
+}

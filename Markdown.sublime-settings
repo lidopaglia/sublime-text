@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"extensions":
+	[
+		"md",
+		"mdown"
+	],
+	"highlight_line": true,
+	"line_numbers": true,
+	"scroll_past_end": true,
+	"show_line_endings": true,
+	"spell_check": true
+}

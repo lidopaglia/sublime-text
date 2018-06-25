@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf",
+		"ayu",
+		"Confluence",
+		"Dockerfile Syntax Highlighting",
+		"Email Header",
+		"Git",
+		"GitGutter",
+		"Gitignore",
+		"GitStatus",
+		"GitStatusBar",
+		"InsertDate",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PlainTasks",
+		"PowerShell",
+		"ProjectManager",
+		"SFTP",
+		"SideBarEnhancements",
+		"SSH Config",
+		"SVG-Snippets",
+		"TrailingSpaces",
+		"Travis CI Statusbar"
+	]
+}
